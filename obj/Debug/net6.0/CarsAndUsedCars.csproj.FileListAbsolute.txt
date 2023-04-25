@@ -1,0 +1,15 @@
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.exe
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.deps.json
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.runtimeconfig.json
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.dll
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.pdb
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.csproj.AssemblyReference.cache
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.AssemblyInfoInputs.cache
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.AssemblyInfo.cs
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.csproj.CoreCompileInputs.cache
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.dll
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\refint\CarsAndUsedCars.dll
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.pdb
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.genruntimeconfig.cache
+C:\Users\timot\GC\C# Repositories\CarsAndUsedCars\obj\Debug\net6.0\ref\CarsAndUsedCars.dll
